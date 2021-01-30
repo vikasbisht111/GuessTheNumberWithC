@@ -1,11 +1,5 @@
 //Project Name : "Guess the number" game
 
-//Description : We will write a program that will generate the random number and will ask the user to guess it, if the user guess the "higher number" than the actual number than the program will say "lower number please" and if user guess lower number , program will say "higher number please" . Which will eventually lead to the correct number .At the end , program will tell you ,how many guesses you did to find the "exact no.".   
-
-
-//Hint : use loops
-//     : random number generate
-
 #include<stdio.h>
 #include<stdlib.h>
 #include<time.h>
